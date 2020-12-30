@@ -82,5 +82,5 @@ namespace VTYS_PROJE
         }
     }
 
-    //Data Source=DESKTOP-56M4591\MSSQLSERVER01;Initial Catalog=MIGROSDB;Integrated Security=True
+
 }
