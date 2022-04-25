@@ -1,2 +1,2 @@
 # Database
-Database Project 
+Database Project using Microsoft SQL Server + .NET
